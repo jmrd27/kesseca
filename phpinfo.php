@@ -1,3 +1,4 @@
 <?php
 // useless
 phpinfo();
+?>
